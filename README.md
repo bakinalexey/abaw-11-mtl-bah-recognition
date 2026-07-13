@@ -33,10 +33,10 @@ Update the dataset paths at the top of each notebook before running.
 
 ```bibtex
 @inproceedings{bakin2026abaw11,
-  title={HSEmotion Team at the 11th {ABAW} Challenge: Efficient Multi-Task Learning and Multimodal Ambivalence/Hesitancy Recognition},
-  author={Bakin Aleksei, Savchenko, Andrey V.},
-  booktitle={ECCV 2026 Workshop on Affective Behavior Analysis in-the-wild},
-  year={2026}
+  title     = {HSEmotion Team at the 11th {ABAW} Challenge: Efficient Multi-Task Learning and Multimodal Ambivalence/Hesitancy Recognition},
+  author    = {Bakin, Aleksei A. and Savchenko, Andrey V.},
+  booktitle = {ECCV 2026 Workshop on Affective Behavior Analysis in-the-wild (ABAW)},
+  year      = {2026}
 }
 ```
 
