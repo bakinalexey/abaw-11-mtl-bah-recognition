@@ -12,25 +12,9 @@ mtl_pytorch.ipynb   # MTL pipeline: frozen DDAMFN/EffNet backbones, heads, post-
 bah.ipynb             # A/H pipeline: face/audio/text features, late fusion, video aggregation, global-text gate
 ```
 
-## Requirements
-
-- Python 3.10+
-- PyTorch
-- transformers (HuBERT, RoBERTa-go_emotions)
-- scikit-learn
-- pandas, numpy, tqdm
-
-Install example:
-
-```bash
-pip install torch torchvision torchaudio transformers scikit-learn pandas numpy tqdm
-```
-
-Pretrained HSEmotion backbones are loaded from the public [HSEmotion](https://github.com/HSE-asavchenko-economy/HSEmotion) repository inside the notebooks.
-
 ## Data
 
-Register for the [11th ABAW competition](https://affective-behavior-analysis-in-the-wild.github.io/) and download:
+Register for the [11th ABAW competition] and download:
 
 - **MTL:** official `s-Aff-Wild2` cropped_aligned release
 - **BAH:** official BAH train / validation / public test splits
@@ -44,14 +28,13 @@ Update the dataset paths at the top of each notebook before running.
 | MTL ensemble | training + post-processing + blending | $P_{MTL}=1.56$ |
 | A/H late fusion + gate | frame MLPs + video aggregation + public-test grid search | Macro F1 $=0.73$ (public test) |
 
-The LaTeX paper is in `../Paper/main.tex`.
 
 ## Citation
 
 ```bibtex
-@inproceedings{savchenko2026abaw11,
+@inproceedings{bakin2026abaw11,
   title={HSEmotion Team at the 11th {ABAW} Challenge: Efficient Multi-Task Learning and Multimodal Ambivalence/Hesitancy Recognition},
-  author={Savchenko, Andrey V.},
+  author={Bakin Aleksei, Savchenko, Andrey V.},
   booktitle={ECCV 2026 Workshop on Affective Behavior Analysis in-the-wild},
   year={2026}
 }
