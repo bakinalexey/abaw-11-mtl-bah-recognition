@@ -1,0 +1,323 @@
+11th ABAW
+Submission Site
+11th Workshop and Competition on
+
+Affective & Behavior Analysis in-the-wild (ABAW)
+in conjunction with the European Conference on Computer Vision (ECCV) 2026
+08:00 - 13:00, September 9th, Malmö, Sweden
+
+About ABAW
+The 11th Affective & Behavior Analysis in-the-Wild (ABAW) Workshop and Competition at ECCV 2026 is a premier forum for showcasing the latest advances in multimodal analysis, modelling and understanding of human affect and behavior 
+in real-world, unconstrained environments. The workshop highlights cutting-edge methods that integrate facial expressions, head and body movements, gestures, voice, speech and language, supporting both foundational research and 
+impactful applications in human-centered AI. It fosters interdisciplinary exchange across computer vision, machine learning, human-computer interaction, psychology, robotics, healthcare and responsible AI. The programme includes 
+keynote talks from leading experts, technical paper presentations, and the well-established ABAW Competition. This year’s competition features two challenges: a multi-task learning one (on valence-arousal estimation, expression 
+recognition & action unit detection) and ambivalence/hesitancy recognition. Built on large-scale in-the-wild datasets, these challenges highlight the importance of multimodal fusion, temporal reasoning, strong pretrained models, and 
+reliable evaluation for understanding human affect and behavior. Overall, ABAW reflects the broader trajectory of the field toward socially meaningful, temporally grounded, and deployment-aware AI systems, while continuing to drive 
+benchmarking, collaboration, and innovation in robust, equitable, and human-centered AI.
+
+The ABAW Workshop and Competition is a continuation of the respective events held at CVPR 2026, CVPR 2025, 2024, 2023, 2022 & 2017, ICCV 2025 & 2021, ECCV 2024 & 2022, FG 2020 (a) & (b).
+
+Organisers
+
+
+General Chair
+
+
+           
+
+ 
+Dimitrios Kollias
+Queen Mary University
+of London, UK
+d.kollias@qmul.ac.uk
+
+
+Program Chairs
+
+
+                         
+
+ 
+Stefanos Zafeiriou
+Imperial College London, UK
+s.zafeiriou@imperial.ac.uk
+
+ 
+Irene Kotsia
+Cogitat Ltd, UK
+irene@cogitat.io
+
+ 
+Eric Granger
+École de technologie supérieure, Canada
+eric.granger@etsmtl.ca
+                         
+
+ 
+Marco Pedersoli
+École de technologie supérieure, Canada
+marco.pedersoli@etsmtl.ca
+
+ 
+Simon Bacon
+Concordia University, Canada
+simon.bacon@concordia.ca
+
+ 
+Oya Celiktutan
+King’s College London, UK
+o.celiktutan@kcl.ac.uk
+Data Chairs
+
+                      Soufiane Belharbi,     École de technologie supérieure, Canada
+                      Muhammad Osama Zeeshan,     École de technologie supérieure, Canada
+                      Chunchang Shao,     Queen Mary University of London, UK
+                      M. Haseeb Aslam,     École de technologie supérieure, Canada
+                      Guanyu Hu,                 Queen Mary University of London, UK & Xi'an Jiaotong University, China
+The Workshop
+
+
+Call for Papers
+Original high-quality contributions, in terms of databases, surveys, studies, foundation models, techniques and methodologies (either uni-modal or multi-modal; uni-task or multi-task ones) are solicited on -but are not limited to- 
+the following topics:
+
+ facial expression (basic, compound or other) or micro-expression analysis
+
+ facial action unit detection
+
+ valence-arousal estimation
+
+ physiological-based (e.g.,EEG, EDA) affect analysis
+
+ face recognition, detection or tracking
+
+ body recognition, detection or tracking
+
+ gesture recognition or detection
+
+ pose estimation or tracking
+
+ activity recognition or tracking
+
+ lip reading and voice understanding
+
+ face and body characterization (e.g., behavioral understanding)
+
+ characteristic analysis (e.g., gait, age, gender, ethnicity recognition)
+
+ group understanding via social cues (e.g., kinship, non-blood relationships, personality)
+
+ video, action and event understanding
+
+ digital human modeling
+characteristic analysis (e.g., gait, age, gender, ethnicity recognition)
+
+ behaviour-aware, affective and social robotics
+
+ human-robot interaction, collaboration and communication
+
+ robot perception of human affect, behaviour, intention, attention and social signals
+
+ embodied AI agents, assistive robots and socially interactive robots
+
+ violence detection
+
+ autonomous driving
+
+ domain adaptation, domain generalisation, few- or zero-shot learning for the above cases
+
+ fairness, explainability, interpretability, trustworthiness, safety, privacy-awareness, bias mitigation and/or subgroup distribution shift analysis for the above cases
+
+ editing, manipulation, image-to-image translation, style mixing, interpolation, inversion and semantic diffusion for all afore mentioned cases
+
+
+
+Workshop Important Dates
+
+Paper Submission Deadline:                                                                                       23:59:59 AoE (Anywhere on Earth) July 20, 2026
+
+Review decisions sent to authors; Notification of acceptance:                                 August 10, 2026
+
+Camera ready version:                                                                                                 August 15, 2026
+
+
+
+
+Submission Information
+The paper format should adhere to the paper submission guidelines for main ECCV 2026 proceedings style. Please have a look at the Submission Guidelines Section here.
+
+We welcome full long paper submissions (between 8 and 14 pages, excluding references or supplementary materials; a paper submission should be at least 8 pages long to be considered for publication). All submissions must be anonymous 
+and conform to the ECCV 2026 standards for double-blind review.
+
+All papers should be submitted using this OpenReview website.
+
+All accepted manuscripts will be part of ECCV 2026 conference proceedings.
+
+At the day of the workshop, oral presentations will be conducted by authors who are attending in-person.
+
+
+
+
+
+Workshop Contact Information
+For any queries you may have regarding the Workshop, please contact d.kollias@qmul.ac.uk.
+
+The Competition
+
+
+The Competition is a continuation of the respective Competitions held at CVPR in 2022 - 2026 & 2017, at ECCV in 2024 & 2022, at ICCV in 2025 & 2021 and at IEEE FG in 2020. It is split into the two below mentioned Challenges. 
+Participants are invited to participate in at least one of these Challenges.
+
+
+
+How to participate
+In order to participate, teams will have to register. There is a maximum number of 8 participants in each team.
+
+
+
+MTL Challenge
+The lead researcher should send an email from their official address (no personal emails will be accepted) to d.kollias@qmul.ac.uk with:
+
+i) subject "11th ABAW Competition: Team Registration";
+
+ii) this EULA (if the team is composed of only academics) or this EULA (if the team has at least one member coming from the industry) filled in, signed and attached;
+
+iii) the lead researcher's official academic/industrial website; the lead researcher cannot be a student (UG/PG/Ph.D.);
+
+iv) the emails of each team member, each one in a separate line in the body of the email;
+
+v) the team's name;
+
+vi) the point of contact name and email address (which member of the team will be the main point of contact for future communications, data access etc)
+
+As a reply, you will receive access to the dataset's cropped/cropped-aligned images and annotations and other important information.
+
+
+
+AH Video Recognition Challenge
+To participate in this Challenge, please follow the registration procedure below:
+
+Please fill out our form according to these steps, and submit it. It involves signing an EULA and uploading it through the same form. The form and the EULA must be completed and signed by a person holding a full-time faculty 
+position at a university, higher education institution, or an equivalent organization. The signee cannot be a student (undergraduate, postgraduate, Ph.D., or postdoctoral).
+Once the form is submitted with the signed EULA, we will contact you to provide details for access to the BAH video dataset. The BAH dataset includes raw videos, cropped and aligned faces at each frame, video- and frame-level 
+labels, audio transcripts with timestamps, annotator cues, participant meta-data, predefined data splits (training, validation, and test sets), and documentation.
+
+
+
+Competition Contact Information
+For any queries you may have regarding the first Challenge, please contact d.kollias@qmul.ac.uk.
+
+For any queries you may have regarding the second Challenge, please contact soufiane.belharbi@gmail.com.
+
+
+General Information
+At the end of the Challenges, each team will have to send us:
+
+i) a link to a Github repository where their solution/source code will be stored,
+
+ii) a link to a pre-print version of a paper (e.g. published on arXiv) with 2-8 pages describing their proposed methodology, data used and results.
+
+Each team will also need to upload their test set predictions on an evaluation server (details will be circulated when the test set is released).
+
+After that, the winner of each Challenge, along with a leaderboard, will be announced.
+
+There will be one winner per Challenge. The top-3 performing teams of each Challenge will have to contribute paper(s) describing their approach, methodology and results to our Workshop; the accepted papers will be part of the ECCV 
+2026 proceedings. All other teams are also able to submit paper(s) describing their solutions and final results; the accepted papers will be part of the ECCV 2026 proceedings.
+
+The Competition's white paper (describing the Competition, the data, the baselines and results) will be ready at a later stage and will be distributed to the participating teams.
+
+
+
+General Rules
+1) Participants can contribute to any of the 2 Challenges.
+
+2) In order to take part in any Challenge, participants will have to register as described above.
+
+3) Any face detector whether commercial or academic can be used in the challenge. The paper accompanying the challenge result submission should contain clear details of the detectors/libraries used.
+
+4) The top performing teams will have to share their solution (code, model weights, executables) with the organisers upon completion of the challenge; in this way the organisers will check so as to prevent cheating or violation of 
+rules.
+
+
+
+Competition Important Dates
+
+Call for participation announced, team registration begins, data available:         May 25, 2026
+
+Test set release:                                                                                                             July 10, 2026
+
+Final submission deadline (Predictions, Code and ArXiv paper):                             23:59:59 AoE (Anywhere on Earth) July 16, 2026
+
+Winners Announcement:                                                                                               July 18, 2026
+
+Final Paper Submission Deadline:                                                                               23:59:59 AoE (Anywhere on Earth) July 20, 2026
+
+Review decisions sent to authors; Notification of acceptance:                                 August 10, 2026
+
+Camera ready version:                                                                                                 August 15, 2026
+Multi-Task Learning (MTL) Challenge
+Database
+For this Challenge, s-Aff-Wild2 database will be used. s-Aff-Wild2 is a static version of Aff-Wild2 database; it contains selected frames from Aff-Wild2.
+In total, around 221K images will be used that contain annotations in terms of valence-arousal; 6 basic expressions, plus the neutral state, plus the 'other' category (that contains affective states not included in the other 
+categories); 12 action units, namely AU1, AU2, AU4, AU6, AU7, AU10, AU12, AU15, AU23, AU24, AU25, AU26.
+
+Rules
+The participants are allowed to use the provided s-Aff-Wild2 database and/or any publicly available or private databases; the participants are not allowed to use the (A/V) Aff-Wild2 database (images and annotations). Teams are 
+allowed to use any -publicly or not- available pre-trained model (as long as it has not been pre-trained on Aff-Wild2). The pre-trained model can be pre-trained on any task (e.g., VA estimation, Expression Recognition, AU detection, 
+Face Recognition). Any methodological solution will be accepted for this Challenge.
+
+Performance Assessment
+The performance measure (P) is the sum of: the mean Concordance Correlation Coefficient (CCC) of valence and arousal; the average F1 Score across all 8 expression categories; the average F1 Score across all 12 action units:
+
+CCCarousal + CCCvalence
+2
++	
+F1expr
+8
++	
+F1aus
+12
+Baseline Results
+The baseline network is a pre-trained ConvNeXt (with fixed convolutional weights and with MixAugment data augmentation technique) and its performance on the validation set is:
+
+P = 0.45
+
+Ambivalence/Hesitancy (AH) Video Recognition Challenge
+Database
+Upon registration for the AH video recognition challenge, teams will be granted access to a new, fully annotated at video- and frame-level version of the BAH dataset [1] that was collected for multimodal recognition of A/H in 
+videos. It contains 1,427 videos with a total duration of 10.60 hours, captured from 300 participants across Canada, answering a predefined set of questions to elicit A/H. It is intended to mirror real-world online personalized 
+behaviour change interventions. BAH is fully annotated by experts to provide timestamps that indicate where A/H occurs and frame- and video-level annotations with A/H cues. Speech-to-text transcripts, their timestamps, cropped and 
+aligned faces, and participants' metadata are also provided. Since A and H manifest similarly in practice, we provide a binary annotation indicating the presence or absence of both A and H, without distinction. Each participant in 
+the dataset may have up to seven videos. The dataset is divided participant-wise into training, validation, and test sets. For performance evaluation, participants can train their models on the BAH training set using any type of 
+supervision and report the performance on the public test set. A second unlabeled private test set will be released to the teams before the end of the challenge. Teams must submit by email to the AH recognition challenge organizers 
+a file of their predictions per video using this private test set. They are allowed to provide multiple trials (up to 5 trials) within the week of the test period. We will compute the performance, and the best trial will be used to 
+rank teams and announce the winners. Teams can submit all 5 trials at once or one trial at a time. This last option allows us to send teams the trial performance as feedback to adjust their approach if needed for the next trial. 
+More details of the submission format will be communicated on the date of the test release. More specific details about this Challenge can be found here.
+
+Goal of the Challenge and Rules
+The challenge aims at the design of innovative models to predict A/H at the video-level to indicate whether or not a video contains A/H (1: presence of A/H, 0: absence of A/H). Teams are required to develop their methods to 
+recognize A/H at the video level (binary task). Given a video, can we predict whether there is or not A/H? Different learning setups could be considered: supervised/self-supervised, domain adaptation (including test time adaptation) 
+and personalization, zero-/few-shot learning, etc. Standard multimodal models could be used, in addition to VLMs, multimodal LLMs and other recent architectures. Teams are advised to develop solutions tailored for A/H recognition.
+Teams are allowed to use any publicly available or private pre-trained model and any public or private dataset (that contains any type of annotations, e.g. valence/arousal, basic or compound emotions, action units). Other datasets 
+for ambivalence/hesitancy, if available, could be used in addition to the BAH dataset, but they must be disclosed in the paper.
+Performance Assessment
+The performance measure (P) is the average F1 score (Macro F1) at the video level across both classes (presence (1) and absence (0) of A/H) over the private test set and will be used to rank teams. We will also report the average 
+precision score (AP) of the positive class (1).
+
+Baseline Results
+A performance of P = 0.2827 was obtained on the BAH public test set, using a baseline model (zero-shot setup with Multimodal-LLM (M-LLM), Video-LLaVA, with a simple prompt and vision modality only (code: 
+https://github.com/sbelharbi/zero-shot-m-llm-bah-prediction). See more details in [1]. Additionally, teams could build on top of standard multimodal models that leverage vision, audio, and text modalities, such as the one used in 
+[1], and adapt it from frame-level prediction to video-level prediction: https://github.com/sbelharbi/bah-dataset. Teams can explore improving standard multimodal models, temporal modeling, multimodal alignment, VLMs, and multimodal 
+LLMs with specialized parameter-efficient fine-tuning (PEFT). All domain adaptation strategies including test time adaptation and personalization could also be considered [2, 3, 4]. Interpretable solutions are encouraged for 
+instance: highlight when A/H occurred in a video, or which modalities/cues/conflicts are used by the model to decide. The rich annotation of the BAH dataset could be used for training/evaluation. Teams can access different solutions 
+proposed in the previous challenge edition at this link: https://arxiv.org/pdf/2605.27451, with a summary at these slides.
+
+[1]: González-González M, Belharbi S, Zeeshan MO, Sharafi M, Aslam MH, Pedersoli M, Koerich AL, Bacon SL, Granger E. “BAH Dataset for Ambivalence/Hesitancy Recognition in Videos for Digital Behavioural Change”. 
+https://arxiv.org/pdf/2505.19328, ICLR, 2026.
+
+[2]: Sharafi M, Belharbi S, Salem HB, Etemad A, Koerich AL, Pedersoli M, Bacon S, Granger E. “Personalized Feature Translation for Expression Recognition: An Efficient Source-Free Domain Adaptation Method”. 
+https://arxiv.org/pdf/2508.09202. ICLR, 2026.
+
+[3]: Zeeshan MO, Aslam MH, Belharbi S, Koerich AL, Pedersoli M, Bacon S, Granger E. “Subject-based domain adaptation for facial expression recognition”. https://arxiv.org/pdf/2312.05632, FG conference, 2024.
+
+[4]: Sharafi M, Zeeshan MO, Belharbi S, Koerich A L, Pedersoli M, Granger E. “Test-Time Adaptation via Cache Personalization for Facial Expression Recognition in Videos”. https://arxiv.org/pdf/2603.21309, arXiv, 2026.
